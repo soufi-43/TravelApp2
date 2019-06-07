@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="api_base">http://phplaravel-250848-861603.cloudwaysapps.com</string>
+    <string name="destination_endpoint">/api/destinations</string>
+
+
+</resources>
